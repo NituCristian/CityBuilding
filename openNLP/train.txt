@@ -1,0 +1,17 @@
+show_VB neighbourhoods_NN 
+rate_VB city_NN
+neighbourhood_NN
+build_VB amenity_NN
+update_VB delete_VB
+amenities_NN rules_NN
+add_VB
+insert_VB
+delete_VB
+aoc_Brand 27"_ScreenSize monitor_Category
+horizon_ModelName zero_ModelName dawn_ModelName
+cm_Unknown 700_Unknown modem_Category
+computer_Category
+bt_Category transmitter_Category
+120hz_Unknown led_Unknown tv_Category
+vizio_Brand 4k_Unknown tv_Category
+battlefront_ModelName 2_ModelName ps4_Unknown

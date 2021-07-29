@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"data_access_layer"},{"l":"model.business"},{"l":"model.business.amenity_rules"},{"l":"model.server"},{"l":"model.service"},{"l":"presentation.client_management"},{"l":"presentation.controller"},{"l":"presentation.view"}]
